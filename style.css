@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+}
+body {
+    background: linear-gradient(pink,yellow,pink);
+}
+.calculator {
+    padding: 7px;
+    border-radius: 15px;
+    display: inline-block;
+    background-color: black;
+}
+table {
+    margin: auto;
+}
+input {
+    width: 150px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+button {
+    border: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    height: 35px;
+    width: 35px;
+    color: #272525;
+    background-color: white;
+}
+button:hover{
+    color: grey;
+}
+.td {
+    height: 50px;
+}
